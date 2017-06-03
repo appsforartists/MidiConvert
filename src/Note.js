@@ -1,4 +1,4 @@
-import Util from './Util'
+import * as Util from './Util'
 
 class Note{
 	constructor(midi, time, duration=0, velocity=1){
